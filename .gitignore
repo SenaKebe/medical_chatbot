@@ -1,0 +1,10 @@
+env/
+chatbot-env/
+__pycache__/
+*.pyc
+faiss_index/
+.streamlit/
+data/*.pdf
+data/*.zip
+data/*.mp4
+pii/
