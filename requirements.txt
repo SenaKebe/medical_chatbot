@@ -1,0 +1,24 @@
+# ctransformers
+# sentence-transformers
+# # pinecone-client==2.2.4
+# langchain
+# langchain-community
+# flask
+# pypdf
+# python-dotenv
+# pinecone
+# langchain-pinecone
+# langchain-huggingface
+
+groq 
+langchain 
+langchain-community 
+faiss-cpu 
+sentence-transformers
+pypdf 
+python-dotenv 
+ipywidgets
+torch 
+streamlit
+
+-e .

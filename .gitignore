@@ -8,3 +8,7 @@ data/*.pdf
 data/*.zip
 data/*.mp4
 pii/
+model/
+data/
+chroma_db/
+model/
